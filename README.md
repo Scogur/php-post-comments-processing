@@ -1,10 +1,8 @@
 # PHP post-comments processing
 
-[English version](#english-version) | [Русская версия](#русская-версия)
-
 ---
 
-## English Version {#english-version}
+## English Guide
 
 PHP project to store posts/comments in Oracle DB and search posts by comment text.
 
@@ -24,7 +22,7 @@ PHP project to store posts/comments in Oracle DB and search posts by comment tex
 
 ---
 
-## Русская версия {#русская-версия}
+## Гайд на русском
 
 Простой проект на PHP для хранения постов и комментариев в Oracle DB и поиска постов по тексту комментариев.
 
